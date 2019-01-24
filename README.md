@@ -1,4 +1,5 @@
 # Angular Essentials - Extension Pack for VS Code
+
 This extension pack for Visual Studio Code adds extensions that are amazingly useful for Angular development.
 
 See the [CHANGELOG](CHANGELOG.md) for the latest changes
@@ -63,11 +64,9 @@ Here is the list of extensions the pack includes:
 
 [Editor Config](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - EditorConfig for VS Code. Great for maintaining consistent editor settings.
 
-[tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - Integrates the tslint linter for the TypeScript language into VS Code. Extremely helpful at detecting and helping fix TypeScript issues.
+[tslint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) - Integrates the tslint linter for the TypeScript language into VS Code. Extremely helpful at detecting and helping fix TypeScript issues.
 
 [Chrome Debugger](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - VS Code debugger for Chrome.
-
-[Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames. Hopefully, VS Code will bake this in at some point. Until then, this is a keeper.
 
 [Angular Inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline) - Visual Studio Code language extension for javascript/typescript files that use Angular2.
 
