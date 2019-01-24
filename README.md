@@ -77,3 +77,5 @@ Here is the list of extensions the pack includes:
 [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=pkief.material-icon-theme) Show material icons in the explorer
 
 [Node npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script) This extension supports running npm scripts defined in the package.json file and validating the installed modules against the dependencies defined in the package.json.
+
+[Karma Problem Matcher](https://marketplace.visualstudio.com/items?itemName=rctay.karma-problem-matcher) This extension captures errors from Karma tests running in Visual Studio Code.
